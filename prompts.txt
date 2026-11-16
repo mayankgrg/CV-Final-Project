@@ -1,0 +1,5 @@
+# One prompt per line. Lines starting with # are ignored.
+a dog standing on a sunny beach, long shadow, photo
+a wooden chair on a bright tiled floor, hard sunlight, photo
+a red car parked on an empty street at sunset, photo
+a person walking on a lawn in the afternoon sun, photo
